@@ -1,0 +1,61 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: regular;
+  letter-spacing: 2%;
+}
+button {
+  cursor: pointer;
+}
+h1 {
+  color: black;
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 60px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+h3 {
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
+.a {
+  color: #434455;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 4%;
+  font-weight: regular;
+}
+.a:hover {
+  color: #404bbf;
+}
+.button {
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+.button:hover {
+  background-color: #404bbf;
+}
+.nav {
+  color: #2e2f42;
+}
+.nav:hover {
+  color: #404bbf;
+}
+.title {
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
+}

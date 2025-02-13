@@ -1,56 +1,67 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: black;
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   font-weight: regular;
   letter-spacing: 2%;
+  background-color: #ffffff;
 }
 button {
   cursor: pointer;
 }
 h1 {
-  color: black;
+  color: #ffffff;
   font-weight: bold;
   font-size: 56px;
-  letter-spacing: 2%;
-  line-height: 60px;
+  letter-spacing: 0.02em;
+  line-height: 1.07;
+  text-align: center;
 }
 h2 {
   font-weight: bold;
   font-size: 36px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 h3 {
-  font-weight: medium;
+  font-weight: 500;
   font-size: 20px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+  color: #2e2f42;
 }
-.a {
+.add {
   color: #434455;
-  font-size: 12px;
-  line-height: 16px;
-  letter-spacing: 4%;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   font-weight: regular;
 }
-.a:hover {
+.add:hover .add:focus {
   color: #404bbf;
 }
 .button {
-  font-weight: medium;
+  font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 4%;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
 }
-.button:hover {
+.button:hover .button:focus {
   background-color: #404bbf;
 }
 .nav {
   color: #2e2f42;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
-.nav:hover {
+.nav:hover .nav:focus {
   color: #404bbf;
 }
 .title {
@@ -58,4 +69,46 @@ h3 {
   font-size: 56px;
   line-height: 60px;
   letter-spacing: 2%;
+}
+address {
+  font-style: normal;
+}
+.section {
+  background-color: #2e2f42;
+}
+.sec2p {
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.sec3h {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.sec4p {
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.footer {
+  color: #2e2f42;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.footer-p {
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+.span {
+  color: #2e2f42;
 }

@@ -7,9 +7,11 @@ body {
   letter-spacing: 2%;
   background-color: #ffffff;
 }
-button {
+
+/*button {
   cursor: pointer;
-}
+}*/
+
 h1 {
   color: #ffffff;
   font-weight: bold;
@@ -34,6 +36,12 @@ h3 {
   line-height: 1.2;
   color: #2e2f42;
 }
+footer {
+  color: #2e2f42;
+}
+span {
+  color: #2e2f42;
+}
 .add {
   color: #434455;
   font-size: 16px;
@@ -45,6 +53,7 @@ h3 {
   color: #404bbf;
 }
 .button {
+  cursor: pointer;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;

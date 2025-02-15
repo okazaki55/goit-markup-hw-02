@@ -4,13 +4,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: regular;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   background-color: #ffffff;
 }
-
-/*button {
-  cursor: pointer;
-}*/
 
 h1 {
   color: #ffffff;
@@ -37,22 +33,25 @@ h3 {
   color: #2e2f42;
 }
 footer {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
 span {
   color: #2e2f42;
 }
-.add {
+.add-ress {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-weight: regular;
 }
-.add:hover .add:focus {
+.add-ress:hover {
   color: #404bbf;
 }
-.button {
+.add-ress:focus {
+  color: #404bbf;
+}
+.button-tx {
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;
@@ -62,15 +61,21 @@ span {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
 }
-.button:hover .button:focus {
+.button-tx:hover {
   background-color: #404bbf;
 }
-.nav {
+.button-tx:focus {
+  background-color: #404bbf;
+}
+.nav-link {
   color: #2e2f42;
   font-weight: 500;
   letter-spacing: 0.02em;
 }
-.nav:hover .nav:focus {
+.nav-link:hover {
+  color: #404bbf;
+}
+.nav-link:focus {
   color: #404bbf;
 }
 .title {
@@ -85,25 +90,22 @@ address {
 .section {
   background-color: #2e2f42;
 }
-.sec2p {
+.sec-2p {
   letter-spacing: 0.02em;
   color: #434455;
 }
 .team {
   background-color: #f4f4fd;
 }
-.sec3h {
+.sec-3h {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.sec4p {
+.sec-4p {
   letter-spacing: 0.02em;
   color: #434455;
-}
-.footer {
-  color: #2e2f42;
 }
 .logo {
   font-family: "Raleway", sans-serif;
@@ -118,6 +120,6 @@ address {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
-.span {
+span {
   color: #2e2f42;
 }

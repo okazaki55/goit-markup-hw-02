@@ -107,9 +107,6 @@ address {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
-.span {
-  color: #2e2f42;
-}
 .sec-threeh {
   font-size: 20px;
   line-height: 1.2;
@@ -122,5 +119,5 @@ address {
   background-color: #f4f4fd;
 }
 span {
-  text-color: #2e2f42;
+  color: #2e2f42;
 }

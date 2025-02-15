@@ -7,7 +7,6 @@ body {
   letter-spacing: 0.02em;
   background-color: #ffffff;
 }
-
 h1 {
   color: #ffffff;
   font-weight: bold;
@@ -78,7 +77,6 @@ address {
 .nav-link:focus {
   color: #404bbf;
 }
-
 .title {
   font-weight: bold;
   font-size: 56px;
@@ -112,6 +110,8 @@ address {
 .span {
   color: #2e2f42;
 }
-.sec-three {
-  background-color: #ffffff;
+.sec-threeh {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
 }

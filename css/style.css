@@ -35,8 +35,8 @@ h3 {
 footer {
   background-color: #2e2f42;
 }
-span {
-  color: #2e2f42;
+address {
+  font-style: normal;
 }
 .add-ress {
   color: #434455;
@@ -78,32 +78,21 @@ span {
 .nav-link:focus {
   color: #404bbf;
 }
+
 .title {
   font-weight: bold;
   font-size: 56px;
   line-height: 60px;
   letter-spacing: 2%;
 }
-address {
-  font-style: normal;
-}
 .section {
   background-color: #2e2f42;
 }
-.sec-2p {
+.sec-twop {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.team {
-  background-color: #f4f4fd;
-}
-.sec-3h {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.sec-4p {
+.sec-fourp {
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -120,6 +109,9 @@ address {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
-span {
+.span {
   color: #2e2f42;
+}
+.sec-three {
+  background-color: #ffffff;
 }

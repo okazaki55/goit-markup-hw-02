@@ -119,8 +119,28 @@ address {
   background-color: #f4f4fd;
 }
 .logo .span-logo {
-  color: #f4f4fd;
+  color: #2e2f42;
 }
 span {
+  color: #2e2f42;
+}
+header {
+  background-color: #e7e9fc;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+}
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  line-height: 1.17;
+  color: #4d5ae5;
+}
+.footer-logo-p {
   color: #f4f4fd;
 }
